@@ -1,4 +1,4 @@
-# Simon_Game
+# Simon Game
 
 ## [Live Demo](https://simongame-lidan.netlify.app)
 
